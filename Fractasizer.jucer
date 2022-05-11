@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="B74xa9" name="FractalSynthesis" projectType="audioplug" useAppConfig="0"
+<JUCERPROJECT id="B74xa9" name="Fractasizer" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
-  <MAINGROUP id="Io9bwR" name="FractalSynthesis">
+              pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn"
+              pluginManufacturer="DelayLama">
+  <MAINGROUP id="Io9bwR" name="Fractasizer">
     <GROUP id="{028E6BA3-DCA8-8DCD-61D4-C7DBB5217A84}" name="Binary">
       <FILE id="eJphhF" name="BurningShip2.png" compile="0" resource="1"
             file="Binary/BurningShip2.png"/>
